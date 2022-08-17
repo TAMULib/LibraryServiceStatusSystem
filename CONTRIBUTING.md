@@ -2,7 +2,7 @@
 # Contributing to Library Service Status System App
 
 Though *Library Service Status System (LSSS) App* is developed and maintained by Texas A&M University Libraries, we welcome community contributions.
-Involvement in *LSSS App* can take many forms:
+Involvement in *LSSS App* can take many forms.
 
 <div align="right">(<a href="#readme-top">back to top</a>)</div>
 
